@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f2c075;
+
+}
+.card{
+    border: 1px solid#ccc;
+    border-radius: 0px;
+}
+.card:hover{
+    box-shadow: 0 0 5px#555;
+    transform: scale(1.05);
+}
+.button
+{
+    margin-left:100px;
+    margin-top: -100px;
+}
+img{
+    height: 200;
+}
